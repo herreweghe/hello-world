@@ -1,2 +1,1 @@
-# hello-world
-first programme
+嵌入式学习
